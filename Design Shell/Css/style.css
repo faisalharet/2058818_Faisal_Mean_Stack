@@ -1,0 +1,19 @@
+.header{
+    background-color: azure;
+    height: 60px;
+}
+.body{
+    background-color: blanchedalmond;
+    height: 80px;
+}
+.footer{
+    background-color: chocolate;
+    height: 80px;
+
+
+}
+#header3{
+    font-weight: 700;
+    color: coral;
+    justify-content: center;
+}
